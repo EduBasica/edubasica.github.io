@@ -1,37 +1,29 @@
-## Welcome to Edubasica
+# EduBasica
+<a href="" target="_blank"><img width="88" height="31" border="0" align="center" src="img/88x31.png "/></a>
 
-You can use the [editor on GitHub](https://github.com/EduBasica/edubasica.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+EDUBASICA es una tarjeta de prototipado rápido para conectar a Arduino. Incluye componentes electrónicos básicos para gran variedad de prácticas y proyectos. Es una tarjeta multipropósito con componentes electrónicos incluidos que puedes usar para fabricar un robot, controlar un sistema de poleas, activar barreras, comunicar dispositivos bluetooth, y todo lo que te puedas imaginar.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="" target="_blank"><img width="300" height="250" border="0" align="center" src="img/Arduino_Uno_-_R3.jpg "/></a> www.arduino.org -- www.arduino.cc
 
-### Markdown
+<a href="" target="_blank"><img width="400" height="300" border="0" align="center" src="img/edubasica01.jpg  "/></a> EduBasica -- www.practicasconarduino.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Conexiones EduBasica con Arduino
 
-```markdown
-Syntax highlighted code block
+<a href="" target="_blank"><img width="700" height="450" border="0" align="center" src="img/EdubasicaQuickStartGuide-2.png "/></a>
 
-# Header 1
-## Header 2
-### Header 3
+# Prácticas de programación y electrónica 
+# con Arduino-EduBasica
+http://procomun.educalab.es/es/ode/view/1462584713007
 
-- Bulleted
-- List
+Archivo en pdf de 4ºESO
 
-1. Numbered
-2. List
+https://www.dropbox.com/s/mtubbro328of7fd/PracticasConArduino2-2.pdf?dl=0
+# Autores
+[Pablo E. García](https://www.linkedin.com/in/pablo-evaristo-garc%C3%ADa-palacios-083a5483)
 
-**Bold** and _Italic_ and `Code` text
+[Manuel Hidalgo](https://es.linkedin.com/in/manuel-hidalgo-díaz-b95b467b)
 
-[Link](url) and ![Image](src)
-```
+[Jorge Luis Loza](https://es.linkedin.com/in/jorgeluisloza)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Jorge Muñoz](https://es.linkedin.com/in/jorge-mu%C3%B1oz-8a641160/es)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EduBasica/edubasica.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
