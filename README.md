@@ -1,5 +1,5 @@
 # EduBasica
-<a href="" target="_blank"><img width="88" height="31" border="0" align="center" src="img/88x31.png "/></a>
+<a href="" target="_blank"><img width="88" height="31" border="0" align="center" src="img/ccbysa.png "/></a>
 
 EDUBASICA es una tarjeta de prototipado rápido para conectar a Arduino. Incluye componentes electrónicos básicos para gran variedad de prácticas y proyectos. Es una tarjeta multipropósito con componentes electrónicos incluidos que puedes usar para fabricar un robot, controlar un sistema de poleas, activar barreras, comunicar dispositivos bluetooth, y todo lo que te puedas imaginar.
 
