@@ -20,10 +20,7 @@ Archivo en pdf de 4ºESO
 https://www.dropbox.com/s/mtubbro328of7fd/PracticasConArduino2-2.pdf?dl=0
 # Autores
 [Pablo E. García](https://www.linkedin.com/in/pablo-evaristo-garc%C3%ADa-palacios-083a5483)
-
 [Manuel Hidalgo](https://es.linkedin.com/in/manuel-hidalgo-díaz-b95b467b)
-
 [Jorge Luis Loza](https://es.linkedin.com/in/jorgeluisloza)
-
 [Jorge Muñoz](https://es.linkedin.com/in/jorge-mu%C3%B1oz-8a641160/es)
 
