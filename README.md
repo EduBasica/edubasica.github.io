@@ -11,16 +11,17 @@ EDUBASICA es una tarjeta de prototipado rápido para conectar a Arduino. Incluye
 
 <a href="" target="_blank"><img width="700" height="450" border="0" align="center" src="img/EdubasicaQuickStartGuide-2.png "/></a>
 
-# Prácticas de programación y electrónica 
-# con Arduino-EduBasica
-http://procomun.educalab.es/es/ode/view/1462584713007
+# [Prácticas de programación y electrónica  con Arduino-EduBasica]
+(http://procomun.educalab.es/es/ode/view/1462584713007)
 
-Archivo en pdf de 4ºESO
+[Libro(pdf) de 4ºESO](https://www.dropbox.com/s/mtubbro328of7fd/PracticasConArduino2-2.pdf?dl=0)
 
-https://www.dropbox.com/s/mtubbro328of7fd/PracticasConArduino2-2.pdf?dl=0
 # Autores
-[Pablo E. García](https://www.linkedin.com/in/pablo-evaristo-garc%C3%ADa-palacios-083a5483)
-[Manuel Hidalgo](https://es.linkedin.com/in/manuel-hidalgo-díaz-b95b467b)
-[Jorge Luis Loza](https://es.linkedin.com/in/jorgeluisloza)
-[Jorge Muñoz](https://es.linkedin.com/in/jorge-mu%C3%B1oz-8a641160/es)
+[Pablo E. García](https://www.linkedin.com/in/pablo-evaristo-garc%C3%ADa-palacios-083a5483),
+
+[Manuel Hidalgo](https://es.linkedin.com/in/manuel-hidalgo-díaz-b95b467b),
+
+[Jorge Luis Loza](https://es.linkedin.com/in/jorgeluisloza),
+
+[Jorge Muñoz](https://es.linkedin.com/in/jorge-mu%C3%B1oz-8a641160/es).
 
