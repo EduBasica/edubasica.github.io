@@ -11,6 +11,8 @@ EDUBASICA es una tarjeta de prototipado rápido para conectar a Arduino. Incluye
 
 ## [Prácticas con Arduino-EduBasica](https://edubasica.github.io/manual/index.html)
 
+## [Programa Arduino mediante código (CATEDU)](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/)
+
 ## [Libro(pdf) de 4ºESO](https://www.dropbox.com/s/mtubbro328of7fd/PracticasConArduino2-2.pdf?dl=0)
 
 ## Autores
@@ -22,3 +24,4 @@ EDUBASICA es una tarjeta de prototipado rápido para conectar a Arduino. Incluye
 
 [Jorge Muñoz](https://es.linkedin.com/in/jorge-mu%C3%B1oz-8a641160/es).
 
+### email: practicasconarduino@gmail.com
