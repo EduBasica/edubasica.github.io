@@ -13,8 +13,6 @@ EDUBASICA es una tarjeta de prototipado rápido para conectar a Arduino. Incluye
 
 ## [Proyectos Científicos-Tecnológicos](https://github.com/leobotmanuel/ProgramandoObjetosTecnologicos/blob/master/README.md#proyectos)<a href="" target="_blank"><img width="50" height="56" border="0" align="center" src="img/obrero.gif "/></a>
 
-## [Programa Arduino mediante código (CATEDU)](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/)
-
 ## [Programación de Objetos Tecnológicos](https://github.com/leobotmanuel/ProgramandoObjetosTecnologicos) (en desarrollo)
 
 ## [Libro(pdf) de 4ºESO](https://www.dropbox.com/s/mtubbro328of7fd/PracticasConArduino2-2.pdf?dl=0)
