@@ -1,7 +1,7 @@
 # EduBasica
 <a href="" target="_blank"><img width="88" height="31" border="0" align="center" src="img/ccbysa.png "/></a>
 
-EDUBASICA es una tarjeta de prototipado rápido para conectar a placas electrónicas programables (Arduino, Alhambra, ESP32STEAMakers,...) con formato de conexión Arduino. Incluye componentes electrónicos básicos para gran variedad de prácticas y proyectos. Es una tarjeta multipropósito con componentes electrónicos incluidos que puedes usar para fabricar un robot, controlar un sistema de poleas, activar barreras, comunicar dispositivos bluetooth, y todo lo que te puedas imaginar.
+EDUBASICA es una tarjeta de prototipado rápido para conectar a placas electrónicas programables (Arduino, Alhambra, ESP32STEAMakers, ...) con formato de conexión Arduino. Incluye componentes electrónicos básicos para gran variedad de prácticas y proyectos. Es una tarjeta multipropósito con componentes electrónicos incluidos que puedes usar para fabricar un robot, controlar un sistema de poleas, activar barreras, comunicar dispositivos bluetooth, y todo lo que te puedas imaginar.
 
 <a href="" target="_blank"><img width="600" height="450" border="0" align="center" src="img/edubasica01.jpg  "/></a>
 
